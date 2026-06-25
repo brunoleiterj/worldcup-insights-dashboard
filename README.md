@@ -98,4 +98,4 @@ LinkedIn: https://www.linkedin.com/in/bruno-leite-342b26160/
 
 ---
 
-Projeto desenvolvido para fins de estudo, análise de dados e inclusãon em portfolio.
+Projeto desenvolvido para fins de estudo, análise de dados e inclusão em portfolio.
