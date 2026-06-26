@@ -61,17 +61,9 @@ https://www.ea.com/games/ea-sports-fc/ratings
 
 ## Screenshots
 
-### Página Inicial
+### Python Code
 
-![Dashboard](img/imgmainmenu.jpg)
-
-### Histórico das Copas
-
-![Dashboard](img/imghistoric.jpg)
-
-### Copa do Mundo 2026
-
-![Dashboard](img/imgteams.jpg)
+![Dashboard](img/python_code_extract.jpg)
 
 
 ### Extração arquivos teams
@@ -84,9 +76,17 @@ https://www.ea.com/games/ea-sports-fc/ratings
 ![Dashboard](img/ratting_players_ea.jpg)
 ![Dashboard](img/ratting_players_extract.jpg)
 
-### Python Code
+### Página Inicial
 
-![Dashboard](img/python_code_extract.jpg)
+![Dashboard](img/imgmainmenu.jpg)
+
+### Histórico das Copas
+
+![Dashboard](img/imghistoric.jpg)
+
+### Copa do Mundo 2026
+
+![Dashboard](img/imgteams.jpg)
 
 
 ## Autor
